@@ -39,6 +39,7 @@ console.log("SVG salvo.");
 
 
 Onde alterar o avatar:
-![image alt](https://github.com/user-attachments/assets/484f323d-c4bc-4769-aaa8-bb29e204b5ec.jpg)
+![Image](https://github.com/user-attachments/assets/96c2af07-4cec-4fc3-9a24-459e0ba322c2)
+
 
 
