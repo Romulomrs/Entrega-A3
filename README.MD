@@ -49,11 +49,12 @@ EXEMPLOS DE AVATARES:
 
 ![Image](https://github.com/user-attachments/assets/9eba2cf8-aa1b-4036-a7b6-35ff8a0c0255)
 
-![Image](https://github.com/user-attachments/assets/98972b4c-3b4c-42c9-beee-c0281a6369d8)
+![Image](https://github.com/user-attachments/assets/98d1095a-1fa5-4dbb-8a7b-4090b37e2823)
 
 ![Image](https://github.com/user-attachments/assets/0b4e20bf-e1d4-4e04-bba2-2e59c8eb230d)
 
 ![Image](https://github.com/user-attachments/assets/7a56dbcc-1e8c-43b8-a331-e138b74f74b1)
+
 
 
 
