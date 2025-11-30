@@ -25,7 +25,7 @@ Depois precisa garantir que o seu projeto está usando módulos ES:
 Se isso não estiver presente, o Node vai chiar com Cannot use import statement outside a module.
 
 Como usar
-
+Crie um arquivo para inicializar o pacote, como "avatar.js"
 Importe o gerador padrão:
 
 import { writeFileSync } from "fs";
@@ -40,6 +40,8 @@ console.log("SVG salvo.");
 
 Onde alterar o avatar:
 ![Image](https://github.com/user-attachments/assets/96c2af07-4cec-4fc3-9a24-459e0ba322c2)
+
+Então, depois de se certificar de estar em Entrega-A3, dê o comando "node (nome do seu script.js)"
 
 
 
