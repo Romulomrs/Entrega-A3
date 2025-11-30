@@ -8,11 +8,11 @@ https://github.com/Romulomrs/a3-v2.git
 
 Instalação
 
-Instala o pacote normalmente:
+Abra um folder em branco e dê o comando:
 
 npm install romulomrs
 
-Depois precisa garantir que o seu projeto está usando módulos ES:
+Depois precisa garantir que o seu projeto está usando módulos ES, no json:
 
 {
   "type": "module",
@@ -42,6 +42,7 @@ Onde alterar o avatar:
 ![Image](https://github.com/user-attachments/assets/96c2af07-4cec-4fc3-9a24-459e0ba322c2)
 
 Então, depois de se certificar de estar em Entrega-A3, dê o comando "node (nome do seu script.js)"
+
 
 
 
